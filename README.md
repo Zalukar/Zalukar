@@ -2,7 +2,7 @@
 - 👀 I’m interested in CSS, HTML and JavaScrirpt
 - 🌱 I’m currently learning FrontEnd Development
 - 💞️ I’m looking to collaborate on everything! <3
-- 📫 How to reach me victor.ardila0205@gmail.com
+- 📫 How to reach me Twitter:@Zalukar05
                       Instagram:@Meh.Zalu
 
 <!---
