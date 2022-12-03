@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FrontEnd Development
 - 💞️ I’m looking to collaborate on everything! <3
 - 📫 How to reach me Twitter:@Zalukar05
-                      Instagram:@Meh.Zalu
+                      Instagram:@z4luk4r
 
 <!---
 Zalukar/Zalukar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
